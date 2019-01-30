@@ -1,0 +1,104 @@
+{Winnie Luu}
+
+
+body {
+		background: url(https://i.imgur.com/Bt0sdpD.jpg?1);
+	    margin-left: 250px;
+	    margin-right: 250px;
+	    }
+	    
+div {
+    resize: vertical;
+    overflow: auto;
+    }
+	        
+.main {
+		padding-left: 50px;
+		padding-right: 50px;
+		background-color: #0066ff;
+		border-style: groove;
+		border-color: #6c7c93;
+		border-width: 6px;
+		text-align: jusitfy;
+		 } 
+
+h1 {
+		color:#ffff00; 
+		font-size: 600%; 
+		letter-spacing: 3px;
+		text-align: center;
+		font-family: 'Luckiest Guy', serif; 
+		text-transform: uppercase; 
+		text-shadow: 4px 3px #0033cc;
+		 }
+		 
+.heading {
+			color: #00cc88;
+			text-shadow: 3px 2px #0033cc;
+			font-size: 200%;
+			font-family: "Khmer MN";
+			padding-top: 80px;
+			 }
+			 
+#menu {
+		font-family: "Courier";
+		color: #9999ff;
+		font-size: 200%;
+		 }
+		 
+#bar {
+		font-family: "Courier";
+		font-size: 130%;
+		 }
+
+.info1 {
+		font-size: 130%;
+		letter-spacing: 0.75px;
+		margin-left: 50px;
+		margin-right: 50px;
+		 }
+
+.info2 {
+		font-size: 130%;
+		letter-spacing: 0.75px;
+		text-align: center;
+		padding-top: 15px;
+		padding-bottom: 20px;
+		 }
+
+img {
+		border-radius: 8px;
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+		 }
+
+table, th, td {
+    			font-size: 110%;
+    			padding: 8px;
+    			text-align: left;
+    			border: 1px solid #000;
+    			margin-left: auto;
+    			margin-right: auto;
+    			 }
+
+tr:hover {
+			background-color: #f5f5f5;
+			 }
+ 
+tr:nth-child(1) {
+					background-color: #4CAF50;
+					 }
+		
+a:link	{
+			color: #0033cc;
+			 }
+
+a:visited	{
+				color: #4747d1;
+				 }
+				 
+a:hover	{
+			color: #99ccff;
+			 }
+
